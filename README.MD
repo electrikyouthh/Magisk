@@ -77,3 +77,5 @@ All of them are either GPL or GPL compatible.
 **Others Not Mentioned**
 
 * Copyright 2016-2018, John Wu (@topjohnwu)
+
+[![](https://jitpack.io/v/electrikyouthh/Magisk.svg)](https://jitpack.io/#electrikyouthh/Magisk)
